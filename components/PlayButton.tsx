@@ -20,7 +20,6 @@ const PlayButton = () => {
       "
     >
       <FaPlay className="text-black" />
-      Play Button
     </button>
   );
 }
